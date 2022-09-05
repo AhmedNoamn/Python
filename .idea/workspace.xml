@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a50bed9-27ae-4c12-a77a-d47c39a12561" name="Changes" comment="arrays">
-      <change afterPath="$PROJECT_DIR$/conditions.py" afterDir="false" />
+    <list default="true" id="7a50bed9-27ae-4c12-a77a-d47c39a12561" name="Changes" comment="conditions">
+      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/conditions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +172,35 @@
       <option name="project" value="LOCAL" />
       <updated>1662319029486</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="arrays">
+      <created>1662319719744</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662319719744</updated>
+    </task>
+    <task id="LOCAL-00007" summary="conditions">
+      <created>1662319752225</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662319752225</updated>
+    </task>
+    <task id="LOCAL-00008" summary="conditions">
+      <created>1662319831902</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662319831902</updated>
+    </task>
+    <task id="LOCAL-00009" summary="conditions">
+      <created>1662320014208</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662320014208</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,12 +209,17 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="array" />
                       </list>
                     </value>
                   </entry>
@@ -200,7 +234,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comment and variables" />
     <MESSAGE value="arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="arrays" />
+    <MESSAGE value="conditions" />
+    <option name="LAST_COMMIT_MESSAGE" value="conditions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

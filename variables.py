@@ -26,3 +26,6 @@ num = int
 num = 5
 print(num)
 """
+name = 'ahmed mohammed \n fayed'
+afd = 'my name is {}'.format(name)
+print(afd)

@@ -1,15 +1,17 @@
-"""
 a = 5
-b = 5
+b = 8
 if a > b:
     print('a greater than b')
 
 elif a < b:
     print('b greater than a')
 
-else :
+else:
     print('very wrong')
 
+checkStates = 'less than' if a > b else 'greater than '
+
+print(checkStates)
 """
 
 # loops
@@ -21,3 +23,4 @@ x = 0
 while x < 101:
     print(x)
     x += 10
+"""

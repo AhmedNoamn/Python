@@ -1,4 +1,9 @@
 """
+listNum = [1, 54, 5, 4]
+print(listNum)
+listNum.append(55)
+print(listNum)
+
 list_name = ['ahmed', 'nimo', 'memo']
 list_name.append('mido')
 list_name.remove('mido')
@@ -17,7 +22,7 @@ list_set.pop()
 print(list_set)
 """
 # dictionary or map
-
+"""
 list_map = {
     '12': 'asmaa',
     '13': 'mano',
@@ -25,3 +30,11 @@ list_map = {
     '15': 'hamoo',
 }
 print(list_map['14'])
+
+"""
+myName = 'ahmed mohammed'
+listName = []
+for i in myName:
+    listName.append(i)
+
+print(listName)
